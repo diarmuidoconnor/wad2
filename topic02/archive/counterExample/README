@@ -1,0 +1,21 @@
+This sample should be added to the 'basicReactLab' project of last week's lab 1 exercise. The steps are:
+
+1. Copy 06_state.js to basicReactLab/components/samples folder.
+2. In basicReactLab/stories/samples.js add this import at the top:
+
+     import CounterState from '../components/samples/06_state'
+
+and add these stories at the bottom:
+
+    storiesOf('ReactBasics/Samples/06 stateful component', module)
+        .add('default', 
+           () =>  <CounterState /> 
+        )
+        .add('normal', 
+           () =>  <CounterState jump={3} /> 
+        )
+        .add('error', 
+           () => <CounterState jump={'high'} /> 
+        )
+
+3. Start the Storybook server and examine the component in the browser.
