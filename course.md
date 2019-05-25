@@ -1,1 +1,4 @@
-# ICT Skills 2 - 2019
+# Skills Studio 2
+
+javascript · SPA · react · APIs · front-end 
+
