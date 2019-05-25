@@ -1,13 +1,11 @@
+slack          : https://wit-hdip-comp-sci.slack.com/messages/CAP2L610B
+moodle         : https://moodle.wit.ie/course/view.php?id=118143&section=3
+youtube        : https://www.youtube.com/playlist?list=PLMW4bgOfD3DwPrctMZ8WSaW7FA1rsjLWd
 highlightstyle : railscasts
-slack          : https://wit-msc-in-computing.slack.com/messages/CCQ1F4MFW/
-moodle         : https://moodle.wit.ie/course/view.php?id=141024
-youtube        : https://www.youtube.com/playlist?list=PL4MwiC_0Rjn6jna4bycWxF3NuAIJGH7kZ
-highlightstyle : railscasts
-#parent         : https://wit-hdip-comp-sci-2018.github.io/
-courseurl      : https://wit-computing.github.io/enterprise-web-2019/
-credits        : Dr Frank Walsh, Diarmuid O'Connor, WIT
+parent         : https://wit-hdip-comp-sci-2018.github.io/
+courseurl      : http://wit-hdip-comp-sci-2018.github.io/ict-skills-2
+credits        : Diarmuid O' Connor, WIT
 license        : Unless otherwise stated, this work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
-ects           : 10
-panelicon      : grey atom
-faPanelicon    : fas fa-code fa-10x
-faColour       : "#000000"
+ects           : 2½
+faPanelicon    : fas fa-code-branch
+faColour       : "#ffd600"
