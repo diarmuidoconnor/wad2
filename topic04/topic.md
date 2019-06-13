@@ -1,4 +1,3 @@
-# Thinking in React.
+# App Navigation.
  
-Explain the design and development process promoted by the React designers - Thinking in React.
-
+Navigation adds the 'app nature' to a React Single Page App. 
