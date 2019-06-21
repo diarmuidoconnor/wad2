@@ -1,3 +1,3 @@
 Resources.
 
-Protected routhes and authentication sample.
+Protected routhes and authentication sample app.
