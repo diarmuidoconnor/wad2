@@ -1,1 +1,1 @@
-# ICT Skills 2 resources, HDip Computer Science, 2019
+# Web App Development 2 resources, 3rd level 8s, 2019
