@@ -10,6 +10,6 @@ ignore    :
 # - topic-02-app-templates+views
 # - topic-03-app-models
 # - topic-04-arrays
-    - topic-03
-    - topic-04
-    - topic-05
+    - topic03
+    - topic04
+    - topic05
