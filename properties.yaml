@@ -1,10 +1,7 @@
 slack          : https://wit-hdip-comp-sci.slack.com/messages/CAP2L610B
 moodle         : https://moodle.wit.ie/course/view.php?id=118143&section=3
-youtube        : https://www.youtube.com/playlist?list=PLMW4bgOfD3DwPrctMZ8WSaW7FA1rsjLWd
 highlightstyle : railscasts
-parent         : https://wit-hdip-comp-sci-2018.github.io/
-courseurl      : http://wit-hdip-comp-sci-2018.github.io/ict-skills-2
-credits        : Diarmuid O' Connor, WIT
+credits        : Diarmuid O' Connor, Dr Frank Walsh. WIT
 license        : Unless otherwise stated, this work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 ects           : 2½
 faPanelicon    : fas fa-code-branch
