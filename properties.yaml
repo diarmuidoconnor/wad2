@@ -1,8 +1,15 @@
-slack          : https://wit-hdip-comp-sci.slack.com/messages/CAP2L610B
-moodle         : https://moodle.wit.ie/course/view.php?id=118143&section=3
 highlightstyle : railscasts
 credits        : Diarmuid O' Connor, Dr Frank Walsh. WIT
 license        : Unless otherwise stated, this work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 ects           : 2½
 faPanelicon    : fas fa-code-branch
 faColour       : "#ffd600"
+ignorepin : 1213
+ignore    :
+# - topic-01-controllers-and-views
+# - topic-02-app-templates+views
+# - topic-03-app-models
+# - topic-04-arrays
+    - topic-03
+    - topic-04
+    - topic-05
