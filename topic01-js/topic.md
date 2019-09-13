@@ -1,3 +1,3 @@
-# Introduction to React and Storybook.
+# Javascript (Review).
  
-Examine the basics of React's component model, including class declaration, JSX, props, composition, iteration. Introduce the Storybook development tool.
+Review the syntax and semantics of the Javascript language, including changes introduced in ES6.
