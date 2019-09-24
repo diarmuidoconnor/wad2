@@ -1,3 +1,3 @@
-# Module overview,
+# The Web Browser,
 
-A look at the context for this module.
+A look at aspects of the web browser that are the foundations of modern web apps - DOM, events, event handlers.
