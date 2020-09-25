@@ -5,6 +5,7 @@ ects           : 2½
 faPanelicon    : fas fa-code-branch
 faColour       : "#ffd600"
 ignorepin : 1213
+auth           : 3
 ignore    :
   - topic01-kg
   - topic02
