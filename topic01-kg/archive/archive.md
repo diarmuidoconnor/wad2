@@ -1,3 +1,3 @@
 Resources.
 
-UI Description samples.
+Browser DOM manipulation.
