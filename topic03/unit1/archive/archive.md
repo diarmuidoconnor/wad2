@@ -1,3 +1,0 @@
-Resources.
-
-The Counter example
