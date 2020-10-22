@@ -1,4 +1,3 @@
-# React App Design.
+#  Navigation & Designing for React.
  
-Explain the design and development process promoted by the React designers, titled Thinking in React.
-
+Adding navigation to a React app. Explain the Thinking in React design process.
