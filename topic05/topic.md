@@ -1,3 +1,3 @@
-# App Navigation.
+# React App Design.
  
-Navigation adds the 'app nature' to a React Single Page App. 
+Explain the design process for a React app - Thinking in React
