@@ -1,3 +1,3 @@
-#  Navigation & Designing for React.
- 
-Adding navigation to a React app. Explain the Thinking in React design process.
+# Navigation & Design pattern basics.
+
+Adding navigation to a React app. Introduce some core design patterns
