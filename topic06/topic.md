@@ -1,3 +1,3 @@
-# Introduction to Node.js
+# React Navigation, Hooks and Design (Contd)
 
-Node.js & Asynchronous JavaScript
+A continuation of the main React features: Hooks, Design patterns and navigation

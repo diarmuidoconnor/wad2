@@ -1,3 +1,3 @@
-#Node
+# React features.
 
-This topic provides an introduction to Node and Express. You will cover Server-side Javascript, event-driven web servers and the Express package.
+Render props & Provider pattern; useReducer hook; Navigation techniques.
