@@ -1,3 +1,3 @@
-# Mongo and Mongoose
+# Node.js and Express
 
-Mongo is a NoSQL Database. Mongoose provides elegant Mongodb object modelling in Node.js. This topic explores how to use both in Express apps.
+Introduction to Express, a Node.js web application framework.

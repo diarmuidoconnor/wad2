@@ -7,7 +7,6 @@ faColour       : "#ffd600"
 ignorepin : 1213
 auth           : 3
 ignore    :
-  - topic08
   - topic09
   - topic10
   - topic20
