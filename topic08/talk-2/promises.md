@@ -1,3 +1,3 @@
-# Async Programming
+# Asynchronous Programming with Javascipt
 
-This topic examines asynchronous programming styles using Callback functions, Promises and Async/Await.
+Asynchronous programming styles using Callbacks, Promises and Async-Await.
