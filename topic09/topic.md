@@ -1,3 +1,3 @@
-# Authentication using JWT and Passport
+# Mongo and Mongoose
 
-This topic descibes how JSON Web Tokens and Passport.js can be used for authentication in Express web APIs.
+Mongo is a NoSQL Database. Mongoose provides elegant Mongodb object modelling in Node.js. This topic explores how to use both in Express apps.
