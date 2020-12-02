@@ -24,11 +24,10 @@ router.get('/:id', async (req, res) => {
 // add a contact (simple - no validation or body checking)
   router.post('/', async (req, res) => {
     if (req.body.name) {
-      const newContact = await new Contact(req.body);
+      const newContact = await new Contact(req.body).save();
       res.status(201).json(newContact);}
     else{
       res.status(400).json({"status":400, "message":"No Body"});}
-    
   });
   
 
