@@ -1,3 +1,3 @@
-# API Testing
+# Authentication using JWT and Passport
 
-This topic introduces testing for web APIs, focussing on Mocha, Should and SuperTest.
+This topic descibes how JSON Web Tokens and Passport.js can be used for authentication in Express web APIs.
