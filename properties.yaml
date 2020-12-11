@@ -8,3 +8,4 @@ ignorepin : 1213
 auth           : 3
 ignore    :
   - topic20
+  - topic11
