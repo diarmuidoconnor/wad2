@@ -1,3 +1,3 @@
 Resources.
 
-Movies Data
+Lecture 1 Example code
