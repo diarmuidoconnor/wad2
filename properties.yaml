@@ -1,5 +1,5 @@
 highlightstyle : railscasts
-credits        : Diarmuid O' Connor, Dr Frank Walsh. WIT
+credits        : Dr Rosanne Birney, Diarmuid O' Connor, Dr Frank Walsh. WIT
 license        : Unless otherwise stated, this work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 ects           : 2½
 faPanelicon    : fas fa-code-branch
@@ -21,4 +21,8 @@ ignore    :
   - topic13
   - topic14
   - topic15
-
+  - topic16
+  - topic17
+  - topic18
+  - topic19
+  - topic20
