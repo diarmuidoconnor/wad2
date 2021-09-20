@@ -1,1 +1,1 @@
-Lecture 2 recording.
+Lecture recording.
