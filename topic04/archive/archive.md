@@ -1,3 +1,3 @@
 Resources.
 
-Routing/Navigation samples.
+Routing/Navigation samples and ES6 samples
