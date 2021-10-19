@@ -1,2 +1,2 @@
-# Navigation & Design (Contf).
+# Thinking in React.
  
