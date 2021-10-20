@@ -1,3 +1,3 @@
 # React features.
 
-Render props & Provider pattern; useReducer hook; Navigation techniques.
+Provider pattern; Caching server state; Navigation techniques.
