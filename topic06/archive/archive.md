@@ -1,3 +1,3 @@
 Resources.
 
-Demo of useReducer hook.
+Demo of caching using react-query library.

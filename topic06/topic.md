@@ -1,3 +1,3 @@
-# React Navigation, Hooks and Design (Contd)
+# React: Patterns, Performance
 
-A continuation of the main React features: Hooks, Design patterns and navigation
+The Provider pattern; Caching server state.
