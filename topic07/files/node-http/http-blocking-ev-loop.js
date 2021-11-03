@@ -7,7 +7,6 @@ const server = http.createServer((req, res) => {
      res.writeHead(200);
      //Gets a random number
      let n = Math.floor(Math.random() * 10000); 
-        
      //nested for loop is O(n^2). Not good for big n!!!
           for (let i = 0; i < n; i++) {
             for (let j = 0; j < n; j++) {
