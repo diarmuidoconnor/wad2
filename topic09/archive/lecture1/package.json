@@ -1,23 +1,24 @@
 {
-  "name": "lab1",
-  "type": "module",
+  "name": "movies-api",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon --exec babel-node index.js"
   },
-  "author": "",
+  "author": "fxwalsh",
   "license": "ISC",
   "devDependencies": {
     "babel-cli": "^6.26.0",
+    "babel-eslint": "^10.1.0",
     "babel-preset-env": "^1.7.0",
-    "nodemon": "^2.0.2"
+    "eslint": "^7.14.0",
+    "nodemon": "^2.0.6"
   },
   "dependencies": {
-    "body-parser": "^1.19.0",
     "dotenv": "^8.2.0",
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "express-async-handler": "^1.2.0",
+    "mongoose": "^6.0.12"
   }
 }

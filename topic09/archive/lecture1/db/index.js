@@ -5,7 +5,7 @@ dotenv.config();
 
 // Connect to database
 mongoose.connect(process.env.mongoDB,{ useNewUrlParser: true });
-// Populate DB with sample data
+
 const db = mongoose.connection;
 
 
@@ -17,4 +17,4 @@ db.on('disconnected', () => {
 });
 db.once('open', () => {
     console.log(`database connected to ${db.name} on ${db.host}`);
-})
+});
