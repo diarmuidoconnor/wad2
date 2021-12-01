@@ -1,3 +1,3 @@
-# Assignment 2
+# React Integration 2/ Assignment Submission
 
-Labs submission, Assignment submission
+React Integration, Labs submission, Assignment submission
