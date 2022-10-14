@@ -1,3 +1,3 @@
 Resources.
 
- Render props sample app.
+The authentication sample app.
