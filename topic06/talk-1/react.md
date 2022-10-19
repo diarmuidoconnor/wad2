@@ -1,3 +1,3 @@
-# React features.
+# State Management.
 
-Provider pattern; Caching server state; Navigation techniques.
+Caching server-side state.

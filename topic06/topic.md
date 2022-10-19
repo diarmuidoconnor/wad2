@@ -1,3 +1,3 @@
-# React: Patterns, Performance
+# State Management
 
-The Provider pattern; Caching server state.
+Caching server state.
