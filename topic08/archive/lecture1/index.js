@@ -1,6 +1,5 @@
 import express from 'express';
 import contactsRouter from './api/contacts/index.js';
-import bodyParser from 'body-parser';
 
 const app = express();
 
@@ -17,8 +16,11 @@ const errorHandler1=(err,req,res,next)=>{
 }
 
 app.use(middleware1)
-// parse application/json
-app.use(bodyParser.json())
+// parse application/json bodies(only parse when content-type = application/json)
+app.use(express.json())
+// parse form/url encoded bodies(only parse when content-type =  application/x-www-form-urlencoded’ )
+app.use(express.urlencoded({extended:true}))
+
 app.get('/', (req,res)=>{res.end('All Good!')});
 app.use('/api/contacts', contactsRouter)
 app.use(errorHandler1)
