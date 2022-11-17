@@ -1,7 +1,7 @@
 highlightstyle : railscasts
 credits        : Diarmuid O' Connor, Dr Frank Walsh
 license        : Unless otherwise stated, this work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
-ects           : 2½
+ects           : 5
 faPanelicon    : fas fa-code-branch
 faColour       : "#ffd600"
 ignorepin : 1213
@@ -17,7 +17,7 @@ ignore    :
   # - topic06
   #- topic07
   # - topic08
-  # - topic09
+  - topic09
   - topic10
   - topic11
   - topic12
